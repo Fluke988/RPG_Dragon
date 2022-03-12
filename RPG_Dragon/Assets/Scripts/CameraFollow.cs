@@ -6,14 +6,19 @@ public class CameraFollow : MonoBehaviour
 {
     Camera cam;
     GameObject playerRef;
-
+    // Start is called before the first frame update
     void Start()
     {
         playerRef = GameObject.FindGameObjectWithTag("Player");
     }
 
-    void LateUpdate()
+    // Update is called once per frame
+    void Update()
     {
-        transform.position = playerRef.transform.position /*+ new Vector3(0, 1.2f, -2.25f)*/ ;
+
+    }
+    private void LateUpdate()
+    {
+        transform.position = playerRef.transform.position + new Vector3(0, 2.5f, -4f);
     }
 }

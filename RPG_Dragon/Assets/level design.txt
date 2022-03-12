@@ -1,0 +1,11 @@
+level design to do
+1. to create point of intrest at 4 diffrent places where user can interact with enviroment, npc and etc.
+2. to create 4 diffrent types of stones at diffrent points in the game.
+3. clear path ways 
+4. graveyard 
+5. boundries for the terrain
+6. main menu
+7. custom skybox.
+8. terrain kit 
+9. nature pack
+10. Character assets (humans,barbaines,orcs)

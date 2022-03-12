@@ -1,0 +1,14 @@
+character design
+1. character definitions
+2. base character class attributes 
+3. character states
+4. character model
+  -aniamator controller
+  -animations states
+  -character controller
+  -modefication to animation
+5.inverse kinematic
+
+1. character definitions: barbaines, orcs, villagers, player character.
+2. character class attributes: character name, character discrption, strength, health, endurance, aglity, alertness, power and defence.
+3. character states: idel, walking, running, attack, death and jump.
