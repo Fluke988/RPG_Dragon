@@ -31,13 +31,6 @@ public class NonPlayerCharacter : MonoBehaviour
                     infoText.SetActive(false);
                     //tempInfotexactive = true;
                 }
-                else if (Input.GetKeyDown(KeyCode.O))
-                {
-                    //other.gameObject.GetComponent<Player>().dialogNumber = 1;
-                    diaglogText.SetActive(false);
-                    infoText.SetActive(true);
-                    //tempInfotexactive = true;
-                }
             }
         }
     }

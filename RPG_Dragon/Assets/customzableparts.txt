@@ -1,0 +1,7 @@
+shields
+body type(skinny, chubby)
+armor(kneen pad, leg plate)
+boots
+helmat
+wepons
+skins

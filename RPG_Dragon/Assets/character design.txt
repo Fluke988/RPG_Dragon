@@ -7,7 +7,8 @@ character design
   -animations states
   -character controller
   -modefication to animation
-5.inverse kinematic
+5.inverse kinematic : it is typically used to make the character movement more realist one of the main uses of inverse kinematic is the calculation of the player feet and how they relate to the ground they are standing on.
+eg: to make sure the foot of a character lands properly on the terrain it is walking on.
 
 1. character definitions: barbaines, orcs, villagers, player character.
 2. character class attributes: character name, character discrption, strength, health, endurance, aglity, alertness, power and defence.
